@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/melina-demo/static/css/main.e9e3ebd4.css",
+    "main.js": "/melina-demo/static/js/main.74986a71.js",
+    "static/media/mel-1.png": "/melina-demo/static/media/mel-1.c36ed4bb4b7d8e37ed3e.png",
+    "static/media/mel-11.png": "/melina-demo/static/media/mel-11.cd2606afa81fe7bd24d3.png",
+    "static/media/mel-4.png": "/melina-demo/static/media/mel-4.8dc4c89342c58ed1ceed.png",
+    "static/media/mel-3.png": "/melina-demo/static/media/mel-3.bf645a408124565f50cf.png",
+    "static/media/mel-12.png": "/melina-demo/static/media/mel-12.1e260a2bd96684b236e7.png",
+    "static/media/mel-10.png": "/melina-demo/static/media/mel-10.9ca40df76717f8b7c28b.png",
+    "static/media/mel-8.png": "/melina-demo/static/media/mel-8.9c14b9cc1874142d747e.png",
+    "static/media/mel-2.png": "/melina-demo/static/media/mel-2.83d3c7478f91ffc5b190.png",
+    "static/media/AlienWeb.png": "/melina-demo/static/media/AlienWeb.779b17314589d7d0ba9a.png",
+    "static/media/mel-6.png": "/melina-demo/static/media/mel-6.1acff4e5efa81981b48f.png",
+    "static/media/mel-7.png": "/melina-demo/static/media/mel-7.af2c0611f7596907194c.png",
+    "static/media/mel-9.png": "/melina-demo/static/media/mel-9.657c7792d2f60d7125ed.png",
+    "static/media/mel-5.png": "/melina-demo/static/media/mel-5.8d6b44548e28dbd6bee5.png",
+    "static/media/liquid-cheese (1).svg": "/melina-demo/static/media/liquid-cheese (1).bde9ab71c3b0a20411fd.svg",
+    "index.html": "/melina-demo/index.html",
+    "main.e9e3ebd4.css.map": "/melina-demo/static/css/main.e9e3ebd4.css.map",
+    "main.74986a71.js.map": "/melina-demo/static/js/main.74986a71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e3ebd4.css",
+    "static/js/main.74986a71.js"
+  ]
+}
